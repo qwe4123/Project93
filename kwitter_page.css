@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+h1 {
+    color: blue;
+    font-weight: bold;
+    margin: 50px;
+}
+#logout {
+    float: right;
+    width: 10%;
+}
+.message_div {
+    background-color: lightblue;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    padding-top: 30px;
+}
+#output {
+    padding: 10px;
+    width:80%;
+    background: lightblue;
+    border-radius: 15px;
+}
+#send {
+    background-color: greenyellow;
+    width: 80%;
+}

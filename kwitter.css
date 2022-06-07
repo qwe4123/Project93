@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+h1 {
+    color: blue;
+    font-weight: bold;
+    margin: 50px;
+}
+.login_div {
+	background: lightblue;
+    float: none;
+    border-radius: 15px;
+    margin: 100px;
+    padding: 30px;
+}
+#login_button {
+	width: 80%;
+    border-radius: 15px;
+}

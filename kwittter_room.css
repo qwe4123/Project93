@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+h1 {
+    color: blue;
+    font-weight: bold;
+    margin: 50px;
+}
+.input_room_div {
+    float: none;
+    margin: 10px;
+    padding: 30px;
+}
+#addroom_button {
+    border-radius: 15px;
+}
+#logout {
+    float: right;
+    width: 10%;
+}
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
